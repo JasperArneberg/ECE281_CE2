@@ -10,7 +10,7 @@
 -- Tool versions: 
 -- Description: 
 --
--- Dependencies: 
+-- Dependencies: This VHDL code is the structural implementation of the circuit.
 --
 -- Revision: 
 -- Revision 0.01 - File Created
