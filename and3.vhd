@@ -8,7 +8,7 @@
 -- Project Name: 
 -- Target Devices: 
 -- Tool versions: 
--- Description:
+-- Description: The and3 component acts as a 3-input and gate.
 --
 -- Dependencies: 
 --
