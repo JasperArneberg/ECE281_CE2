@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
+-- Company: 	USAFA
+-- Engineer: 	C3C Jasper Arneberg
 -- 
 -- Create Date:    16:56:48 02/04/2014 
 -- Design Name: 
@@ -8,7 +8,7 @@
 -- Project Name: 
 -- Target Devices: 
 -- Tool versions: 
--- Description: 
+-- Description: The inverter component inverts the signal that is passed in.
 --
 -- Dependencies: 
 --
