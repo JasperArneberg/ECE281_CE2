@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
+-- Company: 	USAFA
+-- Engineer: 	C3C Jasper Arneberg
 -- 
 -- Create Date:    19:16:50 02/05/2014 
 -- Design Name: 
@@ -8,7 +8,7 @@
 -- Project Name: 
 -- Target Devices: 
 -- Tool versions: 
--- Description: 
+-- Description: This VHDL code is the behavioral implementation of the circuit.
 --
 -- Dependencies: 
 --
